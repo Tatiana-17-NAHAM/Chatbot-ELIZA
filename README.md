@@ -22,3 +22,14 @@ Bienvenue dans ce modeste laboratoire d'intelligence artificielle inspiré par l
  - le fonctionnement des regex dans un projet concret,
  -  la construction de dialogues simples,
  -  ainsi que l'art d'exprimer des émotions telles que la tristesse, la joie ou la curiosité dans un script épuré.
+
+# 🎯 Objectif
+L'objectif de ce projet est de concevoir un chatbot basique, accessible et pédagogique, s'inspirant du programme ELIZA de 1966.
+
+ Ceci permet de :
+
+- Saisir le mécanisme des chatbots basés sur des règles sans recourir à une intelligence artificielle sophistiquée ;
+- Apprendre la programmation Python en se basant sur un projet pratique et divertissant ;
+- Utiliser des expressions régulières (regex) pour identifier des schémas dans le langage.
+- Imiter une conversation interactive avec des réponses sur mesure ;
+- Offrir une base adaptable pour intégrer ultérieurement de nouvelles règles, des fonctionnalités ou une mémoire conversationnelle.
