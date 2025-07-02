@@ -33,3 +33,19 @@ L'objectif de ce projet est de concevoir un chatbot basique, accessible et péda
 - Utiliser des expressions régulières (regex) pour identifier des schémas dans le langage.
 - Imiter une conversation interactive avec des réponses sur mesure ;
 - Offrir une base adaptable pour intégrer ultérieurement de nouvelles règles, des fonctionnalités ou une mémoire conversationnelle.
+
+# ⚙️ Fonctionnalités
+La version Python du chatbot ELIZA se base sur des règles élémentaires établies par le biais d'expressions régulières.  Il a la capacité de :
+- 🗣️ Reconnaître les émotions : il réagit lorsque l’utilisateur dit être “triste”, “heureux” ou “content”.
+
+- 🧠 Analyser les intentions : il détecte des formulations comme “je ne peux pas…” pour formuler des questions ouvertes.
+
+- 👋 Gérer les salutations : il répond aux “bonjour {prenom}” et personnalise la réponse si un prénom est fourni.
+
+- 🙋‍♀️ Réagir aux remerciements : avec des formules courtoises comme “De rien” ou “Je suis là pour ça”.
+
+- 📖 Fournir des citations inspirantes : lorsqu’on lui demande une “citation” ou un mot “motivant”.
+
+- 🤖 Répondre aux questions simples : comme “Comment tu t’appelles ?” ou “Quel temps fait-il aujourd’hui ?” (avec placeholders personnalisables).
+
+- 🧩 Fournir une réponse par défaut : pour toutes les entrées non reconnues, il rebondit avec des phrases génériques.
