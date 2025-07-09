@@ -86,3 +86,18 @@ Il démontre qu’avec quelques lignes de Python et des règles bien pensées, i
 🔧 Il peut facilement être enrichi : nouvelles règles, gestion du contexte, interface graphique, ou connexion à une base de données.
 
 Merci pour votre visite, et n’hésitez pas à explorer, tester... ou contribuer 🤗
+
+## 🤝 Contribuer
+
+Tu veux améliorer ce chatbot, ajouter des règles ou proposer une nouvelle fonctionnalité ? Toute aide est la bienvenue !
+
+### 🛠️ Comment faire :
+1. Fork le projet
+2. Crée ta branche (`git checkout -b ma-fonctionnalite`)
+3. Commits tes modifications (`git commit -m "Ajout d'une nouvelle règle"`)
+4. Push la branche (`git push origin ma-fonctionnalite`)
+5. Ouvre une Pull Request 📥
+
+
+N'hésite pas à signaler des bugs ou à poser des questions dans l’onglet [Issues](https://github.com/Tatiana-17-NAHAM/Chatbot-ELIZA/issues) du projet !
+
