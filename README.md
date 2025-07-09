@@ -100,5 +100,6 @@ Tu veux améliorer ce chatbot, ajouter des règles ou proposer une nouvelle fonc
 
 
 N'hésite pas à signaler des bugs ou à poser des questions dans l’onglet [Issues](https://github.com/Tatiana-17-NAHAM/Chatbot-ELIZA/issues) du projet !
-👩‍💻 Réalisé par](Tatiana SANGUEAL NAHAM)
+
+# 👩‍💻 Réalisé par](Tatiana SANGUEAL NAHAM)
 - 🔗 ([https://www.linkedin.com/in/ton-lien-linkedin](https://www.linkedin.com/in/tatiana-sangu%C3%A9al-naham-050170178/))
