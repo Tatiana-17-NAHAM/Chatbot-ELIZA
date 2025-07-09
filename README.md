@@ -50,9 +50,12 @@ La version Python du chatbot ELIZA se base sur des règles élémentaires établ
 
 - 🧩 Fournir une réponse par défaut : pour toutes les entrées non reconnues, il rebondit avec des phrases génériques.
 
-📦 Contenu du dépôt
-Fichier / Dossier	Description
-chatbot.py	Script principal contenant le code du chatbot et les règles de conversation
-README.md	Ce fichier – explications, instructions et présentation du projet
-LICENSE	Licence MIT autorisant l'utilisation, la modification et le partage du code
-exemples/ (optionnel)	Dossier contenant des transcriptions de conversation ou captures de tests
+## 📦 Contenu du dépôt
+
+| Fichier / Dossier        | Description                                                                 |
+|--------------------------|-----------------------------------------------------------------------------|
+| `chatbot.py`             | Script principal contenant le code du chatbot et les règles de réponse      |
+| `README.md`              | Présentation du projet, sommaire, instructions et documentation              |
+| `LICENSE`                | Licence MIT autorisant l'utilisation, la modification et le partage libre   |
+| `exemples/` *(optionnel)*| Transcriptions de tests ou conversations avec le chatbot                    |
+
