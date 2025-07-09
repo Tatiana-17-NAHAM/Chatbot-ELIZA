@@ -62,3 +62,12 @@ La version Python du chatbot ELIZA se base sur des règles élémentaires établ
 | `LICENSE`                | Licence MIT autorisant l'utilisation, la modification et le partage libre   |
 | `exemples/` *(optionnel)*| Transcriptions de tests ou conversations avec le chatbot                    |
 
+## 💻 Installation rapide
+
+Voici comment cloner et exécuter le chatbot en local :
+
+1. **Clonez le dépôt** :
+   ```bash
+   git clone https://github.com/Tatiana-17-NAHAM/Chatbot-ELIZA.git
+   cd Chatbot-ELIZA
+
