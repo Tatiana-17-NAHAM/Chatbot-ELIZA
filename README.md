@@ -76,3 +76,13 @@ Voici comment cloner et exécuter le chatbot en local :
    git clone https://github.com/Tatiana-17-NAHAM/Chatbot-ELIZA.git
    cd Chatbot-ELIZA
 
+## 🧠 Conclusion
+
+Ce projet ELIZA est une réinterprétation accessible et éducative du tout premier chatbot.  
+Il démontre qu’avec quelques lignes de Python et des règles bien pensées, il est possible de créer une expérience interactive et personnalisée.
+
+📚 Que ce soit pour découvrir les expressions régulières, comprendre le fonctionnement des agents conversationnels ou simplement expérimenter, ce chatbot est une excellente base.
+
+🔧 Il peut facilement être enrichi : nouvelles règles, gestion du contexte, interface graphique, ou connexion à une base de données.
+
+Merci pour votre visite, et n’hésitez pas à explorer, tester... ou contribuer 🤗
