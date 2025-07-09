@@ -64,7 +64,7 @@ La version Python du chatbot ELIZA se base sur des règles élémentaires établ
 
 ## 📓 Notebook Jupyter
 
-Une démonstration interactive est disponible dans [`eliza_demo.ipynb`](eliza_demo.ipynb).  
+Une démonstration interactive est disponible dans [`Eliza.ipynb`](Eliza.ipynb)
 Elle vous permet de tester le chatbot directement dans un environnement pas-à-pas, avec des exemples concrets et du code commenté.
 
 ## 💻 Installation rapide
