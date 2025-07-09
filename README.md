@@ -62,6 +62,11 @@ La version Python du chatbot ELIZA se base sur des règles élémentaires établ
 | `LICENSE`                | Licence MIT autorisant l'utilisation, la modification et le partage libre   |
 | `exemples/` *(optionnel)*| Transcriptions de tests ou conversations avec le chatbot                    |
 
+## 📓 Notebook Jupyter
+
+Une démonstration interactive est disponible dans [`eliza_demo.ipynb`](eliza_demo.ipynb).  
+Elle vous permet de tester le chatbot directement dans un environnement pas-à-pas, avec des exemples concrets et du code commenté.
+
 ## 💻 Installation rapide
 
 Voici comment cloner et exécuter le chatbot en local :
